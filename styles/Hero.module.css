@@ -1,0 +1,38 @@
+.hero {
+    height: 80vh;
+    padding: 150px 8% 0;
+    color: #fff;
+    background-color: #3C99DC;
+    background-image: url('/clouds.png');
+    background-position: center;
+    background-size: cover;
+
+}
+
+
+
+
+
+.text_wrapper {
+    width: 90%;
+}
+
+@media screen and (min-width: 1076px) {
+
+    .text_wrapper {
+        width: 60%;
+    }
+}
+
+
+
+.hero_title {
+    font-size: 2rem;
+    margin-bottom: 20px;
+
+}
+
+.hero_subtitle {
+    font-size: 1.4rem;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,13 @@
+.footer {
+  position: relative;
+  margin-top: 10rem;
+  background: #3c99dc;
+  padding: 1.2rem;
+  text-align: center;
+  color: #fff;
+
+}
+
+.footer p {
+  margin: 5px 0;
+}

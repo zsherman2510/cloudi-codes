@@ -1,0 +1,28 @@
+.box {
+    min-width: 300px;
+    max-width: 384px;
+    height: 450px;
+    border-radius: 5px;
+    padding: 15px 10px;
+    box-shadow: 2px 1px 6px 2px rgb(190, 190, 190);
+    margin: .6rem auto;
+    text-align: center;
+    line-height: 40px;
+    
+
+}
+
+/* @media screen and (max-width: 948px) {
+    .box {
+        justify-content: center;
+    }
+} */
+
+.box_title {
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+}
+
+.icon {
+    font-size: 2rem;
+}
